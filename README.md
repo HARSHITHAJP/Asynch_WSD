@@ -1,1 +1,1 @@
-# Asynch_WSD
+# Asynchronous assignment - creating website on different schools of university using HTML
